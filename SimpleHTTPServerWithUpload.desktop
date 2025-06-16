@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Install SimpleHTTPServerWithUpload
+Comment=Installs SimpleHTTPServerWithUpload Service
+Exec=gnome-terminal -- sh -c 'cd "'"$(dirname %k)"'"; sudo bash ./install.sh'
+Icon=org.gnome.DiskUtility
+Terminal=false
+Type=Application
+Categories=Application;
